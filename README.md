@@ -14,13 +14,11 @@ I worked mostly on the back end.  I had to request json data, and scraped websit
 [Glossary](#glossary)<br>
 [Planets](#planets)<br>
 
-<br>
-### Front End Stories<br>
+### Front End Stories
 [Nav Bar Functionality](#nav-bar-functionality)<br><br>
 [Template Inheritance](#template-inheritance)
-<br>
-<br>
-### Miscellaneous <br>
+
+### Miscellaneous
 [Other Skills](#other-skills)
 <br>
 <br>
