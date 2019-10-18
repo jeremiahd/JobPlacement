@@ -6,22 +6,30 @@ During my time at TTA...<br><br>
 <br>
 ### Back End Stories<br>
 [News](#news)<br>
+* News app dedicated to different news from different sources around the internet.<br>
+
 [ISS](#iss)<br>
+* App that displays the location of the International Space Station.<br>
+
 [Glossary](#glossary)<br>
+* Wiki glossary app that grabs and displays a large list of Space terms and their definitions.<br>
+
 [Planets](#planets)<br>
-
-
+* This planet app lists our solar system planets by an image that links to a more detailed planet view.<br>
+<br><br>
 ### Front End Stories<br>
-[Nav Bar Functionality](#nav-bar-functionality)<br>
+[Nav Bar Functionality](#nav-bar-functionality)<br><br>
 [Template Inheritance](#template-inheritance)
 <br>
 <br>
+### Miscellaneous <br>
+[Other Skills](#other-skills)
+<br>
+<br>
+<br>
+# Back End Stories
 
-
-
-### Back End Stories
-
-# News 
+### News 
 [top](#)
 * Flight News <br>
 * Discovery News <br>
@@ -35,7 +43,8 @@ During my time at TTA...<br><br>
 
 ![](https://github.com/jeremiahd/JobPlacement/blob/master/news/news04.png)
 
-# ISS
+
+### ISS
 [top](#)
 
 ![](https://github.com/jeremiahd/JobPlacement/blob/master/iss/iss03.png)
@@ -46,7 +55,8 @@ During my time at TTA...<br><br>
 
 ![](https://github.com/jeremiahd/JobPlacement/blob/master/iss/iss04.png)
 
-# Glossary
+
+### Glossary
 [top](#)
 
 ![](https://github.com/jeremiahd/JobPlacement/blob/master/glossary/glossary03.png)
@@ -57,7 +67,8 @@ During my time at TTA...<br><br>
 
 ![](https://github.com/jeremiahd/JobPlacement/blob/master/glossary/glossary01.png)
 
-# Planets
+
+### Planets
 [top](#)
 
 ![](https://github.com/jeremiahd/JobPlacement/blob/master/planets/planets04.png)
@@ -70,6 +81,7 @@ During my time at TTA...<br><br>
 
 ![](https://github.com/jeremiahd/JobPlacement/blob/master/planets/planets03.png)
 
+
 # Front End Stories
 [top](#)
 ### Nav Bar Functionality
@@ -77,6 +89,7 @@ During my time at TTA...<br><br>
 
 ### Template Inheritance
 * My task was to work with the base template, and each existing app's templates to create a consistency among the views that followed a proper DOM model.
+
 
 # Other Skills
 * some
