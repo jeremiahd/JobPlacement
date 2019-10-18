@@ -10,16 +10,10 @@ I worked mostly on the back end.  I had to request json data, and scraped websit
 <br>
 ### Back End Stories<br>
 [News](#news)<br>
-* News app dedicated to different news from different sources around the internet.<br>
-
 [ISS](#iss)<br>
-* App that displays the location of the International Space Station.<br>
-
 [Glossary](#glossary)<br>
-* Wiki glossary app that grabs and displays a large list of Space terms and their definitions.<br>
-
 [Planets](#planets)<br>
-* This planet app lists our solar system planets by an image that links to a more detailed planet view.<br>
+
 <br><br>
 ### Front End Stories<br>
 [Nav Bar Functionality](#nav-bar-functionality)<br><br>
@@ -34,6 +28,7 @@ I worked mostly on the back end.  I had to request json data, and scraped websit
 # Back End Stories
 
 ### News 
+* News app dedicated to different news from different sources around the internet.<br>
 [top](#)
 * Flight News <br>
 * Discovery News <br>
@@ -49,6 +44,7 @@ I worked mostly on the back end.  I had to request json data, and scraped websit
 
 
 ### ISS
+* App that displays the location of the International Space Station.<br>
 [top](#)
 
 ![](https://github.com/jeremiahd/JobPlacement/blob/master/iss/iss03.png)
@@ -61,6 +57,7 @@ I worked mostly on the back end.  I had to request json data, and scraped websit
 
 
 ### Glossary
+* Wiki glossary app that grabs and displays a large list of Space terms and their definitions.<br>
 [top](#)
 
 ![](https://github.com/jeremiahd/JobPlacement/blob/master/glossary/glossary03.png)
@@ -73,6 +70,7 @@ I worked mostly on the back end.  I had to request json data, and scraped websit
 
 
 ### Planets
+* This planet app lists our solar system planets by an image that links to a more detailed planet view.<br>
 [top](#)
 
 ![](https://github.com/jeremiahd/JobPlacement/blob/master/planets/planets04.png)
