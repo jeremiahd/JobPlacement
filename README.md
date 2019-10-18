@@ -14,7 +14,7 @@ I worked mostly on the back end.  I had to request json data, and scraped websit
 [Glossary](#glossary)<br>
 [Planets](#planets)<br>
 
-<br><br>
+<br>
 ### Front End Stories<br>
 [Nav Bar Functionality](#nav-bar-functionality)<br><br>
 [Template Inheritance](#template-inheritance)
@@ -42,8 +42,9 @@ I worked mostly on the back end.  I had to request json data, and scraped websit
 
 
 ### ISS
-* App that displays the location of the International Space Station.<br>
 [top](#)
+
+* App that displays the location of the International Space Station.<br>
 
 ![](https://github.com/jeremiahd/JobPlacement/blob/master/iss/iss03.png)
 
