@@ -2,7 +2,11 @@
 ## The Tech Academy Live Project
 
 ### Introduction
-During my time at TTA...<br><br>
+The last two weeks of my time at the Tech Academy were spent working on a live project with a team of developers.  I walked into the beginning of the project's lifetime, and created several applications that displayed different information about space, the planets, the international space station, news about space and alien life, as well as a glossary of space termonology.
+
+I learned how projects are divided into smaller pieces that are easy to tackle and absorb back into the larger codebase.  We communicated via slack and google meet to communicate challenges, and worked to help each other with roadblocks.
+
+I worked mostly on the back end.  I had to request json data, and scraped websites to build django views and templates that accomplished the goals of my assigned story.  I did make an effort to work on two front end assignments.  I fixed all the site hyper-links so they utilized the django template language, as well as helped organize the existing template inheritance to a more team-oriented design that respected the DOM.<br><br>
 <br>
 ### Back End Stories<br>
 [News](#news)<br>
