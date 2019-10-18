@@ -99,7 +99,9 @@ I worked mostly on the back end.  I had to request json data, and scraped websit
 * Pushing branch changes
 * Creating pull requests to the master branch
 <br>
+
 * Storyboard logistics, and best practices.
 <br>
+
 * Slack
 * Google Meet
