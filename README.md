@@ -28,11 +28,9 @@ I worked mostly on the back end.  I had to request json data, and scraped websit
 # Back End Stories
 
 ### News 
-* News app dedicated to different news from different sources around the internet.<br>
 [top](#)
-* Flight News <br>
-* Discovery News <br>
-* SETI News <br>
+
+* News app dedicated to different news from different sources around the internet.<br>
 
 ![](https://github.com/jeremiahd/JobPlacement/blob/master/news/news03.png)
 
@@ -57,8 +55,9 @@ I worked mostly on the back end.  I had to request json data, and scraped websit
 
 
 ### Glossary
-* Wiki glossary app that grabs and displays a large list of Space terms and their definitions.<br>
 [top](#)
+
+* Wiki glossary app that grabs and displays a large list of Space terms and their definitions.<br>
 
 ![](https://github.com/jeremiahd/JobPlacement/blob/master/glossary/glossary03.png)
 
@@ -70,8 +69,9 @@ I worked mostly on the back end.  I had to request json data, and scraped websit
 
 
 ### Planets
-* This planet app lists our solar system planets by an image that links to a more detailed planet view.<br>
 [top](#)
+
+* This planet app lists our solar system planets by an image that links to a more detailed planet view.<br>
 
 ![](https://github.com/jeremiahd/JobPlacement/blob/master/planets/planets04.png)
 
