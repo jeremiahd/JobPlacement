@@ -93,13 +93,13 @@ I worked mostly on the back end.  I had to request json data, and scraped websit
 
 
 # Other Skills
-### Experience with git.
+* Experience with git.
 * Creating remote/local branches for my story.
 * Making frequent commits, with proper comments.
 * Pushing branch changes
 * Creating pull requests to the master branch
-
+<br>
 * Storyboard logistics, and best practices.
-
+<br>
 * Slack
 * Google Meet
