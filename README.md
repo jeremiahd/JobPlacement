@@ -15,7 +15,7 @@ I worked mostly on the back end.  I had to request json data, and scraped websit
 [Planets](#planets)<br>
 
 ### Front End Stories
-[Nav Bar Functionality](#nav-bar-functionality)<br><br>
+[Nav Bar Functionality](#nav-bar-functionality)<br>
 [Template Inheritance](#template-inheritance)
 
 ### Miscellaneous
